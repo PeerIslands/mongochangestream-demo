@@ -1,0 +1,14 @@
+
+.idea/aws.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+target/classes/application.properties
+target/classes/io/peerislands/changestreamdemo/ChangestreamDemoApplication.class
+target/classes/io/peerislands/changestreamdemo/ChangeStreamListener.class
+target/classes/io/peerislands/changestreamdemo/Constants.class
+target/classes/io/peerislands/changestreamdemo/DocumentSimulation.class
